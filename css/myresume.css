@@ -1,35 +1,14 @@
+body  {
+font-family: 'Noto Sans TC', sans-serif;
+}
 
-hl,h2,h3,hs,hs,he,.hi..h2..h3, .h1,
-.hs, .h6 (
-font-family: 'Noto Sans IC', sans-
-.mubheading (
-font-family:
-font-size: 1.2rem;
-'Noto Sans TC',
-font-veight: normal;
-hl,h2, h3, hi, hs, he,
-,gubheadingl
-text-tran
-ransform: none:
-무h,
-.hl (
-font-size:
-Ep.lead (
-font-#ize: 1.2rem:
-무.bg-prmary(
-backgrou
-nd-color:
-#0010c21
-!tmportant:
-backgrotund-image: u
-url(../a
-/* This
-La soacly intended toz pzotocyping: please
-ssets/1mg/al
-lways-grey.png)
-.cext-primary (
-color:
-#0010c21important:
-#0010c2:
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: 'Noto Sans TC', sans-serif;
+}
 
-background-image: linear-gradient(to right bottom, Aquamarine, GreenYellow);
+subheading {
+font-family: 'Noto Sans TC', sans-serif;
+
+
+
+
