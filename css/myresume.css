@@ -8,9 +8,12 @@ font-family: 'Noto Sans TC', sans-serif;
 
 subheading {
 font-family: 'Noto Sans TC', sans-serif;
+font-size: 1.2rem;
+font-weight: normal ;
 
 
 
-background-color: #00ab9d;
-background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+
+background-color: #00ab9d; important;
+background-image: url(assets/img/always-grey.png);
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
